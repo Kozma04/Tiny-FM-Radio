@@ -1,7 +1,10 @@
 # Tiny FM Radio v1
 A small battery-powered FM Radio powered by the ATtiny3216 microcontroller.
+Project sponsored by JLCPCB (https://jlcpcb.com/RAT)
 
 It was originally intented to use the SI4703 FM tuner and some other ICs, but due to some PCB design mistakes and since this was originally a birthday project for my mother and I had to finish it ASAP, I was forced to drop some features for now and integrate in the project an FM tuner kit based on the HEX3653 IC I found at a local electronic components store.
+
+This project's code is using SpenceKonde's megaTinyCore: https://github.com/SpenceKonde/megaTinyCore
 
 # Present features
   * SH1106 monochrome OLED display (128x64 px, I2C interface)
