@@ -1,0 +1,20 @@
+81.1mm x 38.6mm PCB
+PCB drill 1: 3.5mm x 27.1mm
+PCB drill 2: 77.1mm x 9.6mm
+PCB drill diameter: 2.8mm
+Holder PCB drill diameter: 4.2mm
+
+Button dimensions: 6.2mm x 6.2mm
+Power button: 74.9 x 32.7
+Up: 63.6 x 27
+Down: 63.6 x 9.1
+Left: 53 x 18.1
+Right: 74.2 x 18.1
+Ok: 63.6 x 18.1
+
+OLED header: 21.6 x 30.3
+
+OFFSET LEFT AND RIGHT SIDES BY 1.2MM!
+
+0.5mm tolerance
+2.5mm thickness
