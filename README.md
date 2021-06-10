@@ -24,5 +24,8 @@ This project's code is using SpenceKonde's megaTinyCore: https://github.com/Spen
   * SI4703-C19 FM tuner IC featuring volume control, RDS and more (needs external 32.768Khz oscillator)
   * Timekeeping using the MCP79402 real-time clock
 
+
+Here is how the project looks like. __[Watch video!](https://youtu.be/wYINLay8BuY)__
+
 ![](/media/IMG_20210424_093741.jpg)
 This was my first 3D Printed case :)
