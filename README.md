@@ -1,4 +1,4 @@
-# Tiny FM Radio v1
+# Tiny FM Radio v1 [Work in progress]
 A small battery-powered FM Radio powered by the ATtiny3216 microcontroller.
 Project sponsored by JLCPCB (https://jlcpcb.com/RAT)
 
